@@ -2,9 +2,6 @@
 
 **In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and in civics.**
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/SenJohnMcCain?ref_src=twsrc%5Etfw">@SenJohnMcCain</a> I&#39;ve set up <a href="https://t.co/CZaQNARbeb">https://t.co/CZaQNARbeb</a> as a free/open resource to support + promote his call for a return to <a href="https://twitter.com/hashtag/RegularOrder?src=hash&amp;ref_src=twsrc%5Etfw">#RegularOrder</a> broadly in civic and political affairs. Share content/questions/ideas and make tomorrow better <a href="https://twitter.com/McCainInstitute?ref_src=twsrc%5Etfw">@McCainInstitute</a> <a href="https://twitter.com/medialab?ref_src=twsrc%5Etfw">@medialab</a></p>&mdash; DazzaGreenwood (@dazzagreenwood) <a href="https://twitter.com/dazzagreenwood/status/1035927704682553345?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ----------------------
 
@@ -65,6 +62,11 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 * Sample bylaws, corporate and non-profit practices
   - [The Spirit and the Letter](https://www.ge.com/in/sites/www.ge.com.in/files/TheSpirit&TheLetter.pdf) - GE.com
 * Example scenarios and vignettes
+
+-------------------
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/SenJohnMcCain?ref_src=twsrc%5Etfw">@SenJohnMcCain</a> I&#39;ve set up <a href="https://t.co/CZaQNARbeb">https://t.co/CZaQNARbeb</a> as a free/open resource to support + promote his call for a return to <a href="https://twitter.com/hashtag/RegularOrder?src=hash&amp;ref_src=twsrc%5Etfw">#RegularOrder</a> broadly in civic and political affairs. Share content/questions/ideas and make tomorrow better <a href="https://twitter.com/McCainInstitute?ref_src=twsrc%5Etfw">@McCainInstitute</a> <a href="https://twitter.com/medialab?ref_src=twsrc%5Etfw">@medialab</a></p>&mdash; DazzaGreenwood (@dazzagreenwood) <a href="https://twitter.com/dazzagreenwood/status/1035927704682553345?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ------------------
 
