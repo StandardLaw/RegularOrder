@@ -36,7 +36,7 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 
 [Regular order (United States Congress) - Wikipedia](https://en.wikipedia.org/wiki/Regular_order_(United_States_Congress))
 
-[Regular Order Is a Political Rorschach | Wolfensberger](https://www.rollcall.com/news/regular_order_is_a_political_rorschach_wolfensberger-224587-1.html)
+[Regular Order Is a Political Rorschach](https://www.rollcall.com/news/regular_order_is_a_political_rorschach_wolfensberger-224587-1.html)
 
 [In regular order legal definition of in regular order](https://legal-dictionary.thefreedictionary.com/in+regular+order)
 
