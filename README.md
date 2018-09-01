@@ -1,6 +1,6 @@
 # [RegularOrder.org](http://regularorder.org)
 
-**In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and in civics.**
+**In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and more broadly in public affairs and civic life.**
 
 
 ----------------------
