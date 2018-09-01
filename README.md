@@ -4,19 +4,7 @@
 
 ----------------------
 
-## Regular Order in Parliamentary Principles and Procedures
-
-Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
-
-## Regular Order in Civics and Public Affairs
-
-Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
-
-## Implementing Regular Order in Organizations, Networks and Processes
-
-Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
-
-# John McCain and Regular Order
+# John McCain's Call for a Return to Regular Order
 
 **References**
 
@@ -41,6 +29,38 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 [Regular Order Is a Political Rorschach](https://www.rollcall.com/news/regular_order_is_a_political_rorschach_wolfensberger-224587-1.html)
 
 [In regular order legal definition of in regular order](https://legal-dictionary.thefreedictionary.com/in+regular+order)
+
+------------------
+
+## Regular Order in Parliamentary Principles and Procedures
+
+Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
+
+### Outline
+
+* Sample bylaws and parliamentary practices
+* Example scenarios and vignettes
+
+### Regular Order in Civics and Public Affairs
+
+Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
+
+
+### Outline
+
+* Applying the principles of regular order and civility in other public and civic contexts
+* Example scenarios and vignettes
+
+## Implementing Regular Order in Organizations, Networks and Processes
+
+Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
+
+
+### Outline
+
+* Sample bylaws, corporate and non-profit practices
+  - [The Spirit and the Letter](https://www.ge.com/in/sites/www.ge.com.in/files/TheSpirit&TheLetter.pdf) - GE.com
+* Example scenarios and vignettes
 
 ------------------
 
