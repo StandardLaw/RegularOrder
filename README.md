@@ -1,4 +1,6 @@
-In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and in civics.
+# [RegularOrder.org](http://regularorder.org)
+
+**In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and in civics.**
 
 ## Defining Regular Order in Parliamentary Principles and Procedures
 
