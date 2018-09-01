@@ -42,7 +42,7 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 
 ------------------
 
-# John McCain
+# John Sidney McCain III
 
 ![440px-john_mccain_official_portrait_2009](https://user-images.githubusercontent.com/2357755/44947799-d1dcfb00-ade0-11e8-97ce-04ff4960a51e.jpg)
 
