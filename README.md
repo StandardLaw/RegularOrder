@@ -12,7 +12,7 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 
 Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
 
-## Deploying Regular Order in Organizations, Networks and Processes
+## Implementing Regular Order in Organizations, Networks and Processes
 
 Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
 
