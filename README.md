@@ -1,4 +1,4 @@
-In Honor of John McCain and his call for a return to regular order in the Senate and in civics.
+In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and in civics.
 
 ## Defining Regular Order in Parliamentary Principles and Procedures
 
@@ -38,4 +38,8 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 
 [In regular order legal definition of in regular order](https://legal-dictionary.thefreedictionary.com/in+regular+order)
 
+# John McCain
 
+![440px-john_mccain_official_portrait_2009](https://user-images.githubusercontent.com/2357755/44947799-d1dcfb00-ade0-11e8-97ce-04ff4960a51e.jpg)
+
+**January 3, 1987 – August 25, 2018**
