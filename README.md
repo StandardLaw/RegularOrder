@@ -30,7 +30,7 @@ Content draft in process.  To suggest new or corrected content submit an [issue 
 
 [The message from John McCain that his colleagues should heed now](http://www.latimes.com/opinion/editorials/la-ed-mccain-senate-20180826-story.html)
 
-[Return to regular order | TheHill](http://thehill.com/opinion/columnists/john-feehery/276071-return-to-regular-order)
+[Return to regular order - TheHill](http://thehill.com/opinion/columnists/john-feehery/276071-return-to-regular-order)
 
 ### Legal and Political Contexts
 
