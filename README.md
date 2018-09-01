@@ -2,11 +2,13 @@
 
 **In Honor of [John McCain](https://en.wikipedia.org/wiki/John_McCain) and his call for a return to regular order in the Senate and in civics.**
 
-## Defining Regular Order in Parliamentary Principles and Procedures
+----------------------
+
+## Regular Order in Parliamentary Principles and Procedures
 
 Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
 
-## Refining Regular Order in Civics and Public Affairs
+## Regular Order in Civics and Public Affairs
 
 Content draft in process.  To suggest new or corrected content submit an [issue ticket](https://github.com/StandardLaw/RegularOrder/issues) or make a [pull request](https://help.github.com/articles/about-pull-requests/).
 
